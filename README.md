@@ -1,4 +1,4 @@
-# Paper Plane Simulator
+# Paper Plane Simulator (WIP)
 ## Project Description
  A Game + Research Project under Envisage, an IITM Club
 
